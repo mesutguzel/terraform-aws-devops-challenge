@@ -7,9 +7,9 @@ vpc_cidr           = "10.11.0.0/16"
 public_subnet_cidr = "10.11.1.0/24"
 
 # AWS Settings
-aws_access_key = "complete-this"
-aws_secret_key = "complete-this"
-aws_region     = "us-east-1"
+AWS_ACCESS_KEY_ID = "complete-this"
+AWS_SECRET_ACCESS_KEY = "complete-this"
+AWSAWS_DEFAULT_REGION = "us-east-1"
 
 # Linux Virtual Machine
 linux_instance_type               = "t2.micro"
