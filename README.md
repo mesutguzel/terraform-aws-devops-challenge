@@ -2,7 +2,21 @@
 
 Deploy an AWS EC2 Instance running Ubuntu using Terraform
 
-To update the version of Ubuntu, just update the **ami** line in the **linux-vm-main.tf** file, with a variable from the **ubuntu-versions.tf** file.
+Terraform init:
+
+![terraform init](https://user-images.githubusercontent.com/77083678/165469833-4bb04307-bc84-4150-b5c7-5baca1f434cc.PNG)
+
+Terraform plan:
+
+![terraform plan](https://user-images.githubusercontent.com/77083678/165469899-057ae703-e5e0-49d0-a81e-ceaae1df192e.PNG)
+
+Terraform apply:
+
+![terraform apply](https://user-images.githubusercontent.com/77083678/165469959-3f2882a3-ddd7-4a8d-8519-9c395c59a068.PNG)
+
+Terraform outputs:
+
+![outputs](https://user-images.githubusercontent.com/77083678/165470010-17bbe37e-dc4e-4959-9f59-8123e733bb61.PNG)
 
 
 For CI/CD pipeline part by using GitLab:
