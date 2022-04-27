@@ -10,7 +10,7 @@ resource "tls_private_key" "key_pair" {
 
 # Create the Key Pair
 resource "aws_key_pair" "key_pair" {
-  key_name   = "${lower(var.app_name)}-${lower(var.app_environment)}-linux-${lower(var.aws_region)}"  
+  key_name   = "${lower(var.app_name)}-${lower(var.app_environment)}-linux-${lower(var.AWS_DEFAULT_REGION)}"  
   public_key = tls_private_key.key_pair.public_key_openssh
 }
 
