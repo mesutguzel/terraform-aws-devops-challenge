@@ -45,3 +45,19 @@ Apply:
 Destroy:
 
 ![destroy](https://user-images.githubusercontent.com/77083678/165465722-59841e93-1148-4166-80e4-559cab9550b0.PNG)
+
+Docker image build:
+
+![image-build](https://user-images.githubusercontent.com/77083678/165705072-d66964de-bdd5-489b-bb43-08e8e37f1200.PNG)
+
+Docker container run:
+
+![docker run](https://user-images.githubusercontent.com/77083678/165705130-a8705dcb-76cd-4f37-807e-e6b404b5f827.PNG)
+
+Web Application on port 5000:
+
+![web-application](https://user-images.githubusercontent.com/77083678/165705207-de3e37a2-c8f9-4911-a7a1-32558973bbe4.PNG)
+
+
+
+
