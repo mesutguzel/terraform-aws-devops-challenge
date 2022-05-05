@@ -48,7 +48,7 @@
 
 #  Writing Dockerfile to deploy a Python Web App  
   
-<h3 align="center">Docker image build:
+<h3 align="left">Docker image build:
 
 ![image-build](https://user-images.githubusercontent.com/77083678/165705072-d66964de-bdd5-489b-bb43-08e8e37f1200.PNG)
 
