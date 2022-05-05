@@ -74,9 +74,8 @@ Running mybackup.sh again
 
 File named "www-backup-05-04-22.tar.gz" has been created
 
-![backup dir created](https://user-images.githubusercontent.com/77083678/166876009-d6e692b1-4f3d-406a-a800-48a067f1ebb9.PNG)
 
-
+![backup dir created](https://user-images.githubusercontent.com/77083678/166876164-36f5c3f2-ef8f-4df4-a75a-989f0a399a17.PNG)
 
 
 
