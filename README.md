@@ -2,7 +2,7 @@
 
 # Deploy an AWS EC2 Instance running Ubuntu using Terraform
 
-<h3 align="center">Terraform init:
+<h3 align="left">Terraform init:
 
 ![terraform init](https://user-images.githubusercontent.com/77083678/165469833-4bb04307-bc84-4150-b5c7-5baca1f434cc.PNG)
 
