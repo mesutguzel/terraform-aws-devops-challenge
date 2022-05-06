@@ -22,6 +22,10 @@
 # For CI/CD pipeline part by using GitLab:
 
 # All my stages has been completed successfully.
+ 
+ Gitlab Link below :point_down:	
+ 
+ https://gitlab.com/mesutguzel/terraform-aws-devops-challenge
 
 
 ![main](https://user-images.githubusercontent.com/77083678/165465596-b65152f1-241b-4d55-b74c-d241e3c3cab6.PNG)
