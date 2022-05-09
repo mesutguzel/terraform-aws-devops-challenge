@@ -25,7 +25,7 @@ WORKDIR  /opt/webapp
 # RUN apt-get update && apt-get -y install libpq-dev gcc && apt install python3-pip -y  && apt install python-pip -y
 # RUN apt-get install software-properties-common -y &&  apt-add-repository universe -y && apt-get update -y &&  apt-get install python-pip -y
 COPY requirements.txt /opt/webapp/
-
+EXPOSE 5000
 RUN  pip install -r requirements.txt; 
 COPY . /opt/webapp/
 CMD python run.py
