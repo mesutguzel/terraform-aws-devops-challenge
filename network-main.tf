@@ -7,7 +7,7 @@ resource "aws_vpc" "vpc" {
   cidr_block           = var.vpc_cidr
   enable_dns_hostnames = true
   tags = {
-    Name = "${lower(var.app_name)}-${lower(var.app_environment)}-vpc"
+    Name = "network-prod"
     Environment = var.app_environment
   }
 }
